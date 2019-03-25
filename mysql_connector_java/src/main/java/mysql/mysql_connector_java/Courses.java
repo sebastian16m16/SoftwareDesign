@@ -1,0 +1,82 @@
+package mysql.mysql_connector_java;
+
+public class Courses{
+
+        int course_id;
+        String name, teacher;
+        int study_year;
+
+        public Courses() {
+        	
+        }
+        public Courses(int course_id, String name, String teacher, int study_year){
+            this.course_id = course_id;
+            this.name = name;
+            this.teacher = teacher;
+            this.study_year = study_year;
+        }
+
+        public Courses(String name, String teacher, int study_year){
+            this.name = name;
+            this.teacher = teacher;
+            this.study_year = study_year;
+        }
+
+    /**
+     * @return the course_id
+     */
+    public int getCourse_id() {
+        return course_id;
+    }
+
+    /**
+     * @param course_id the course_id to set
+     */
+    public void setCourse_id(int course_id) {
+        this.course_id = course_id;
+    }
+
+    /**
+     * @return the name
+     */
+    public String getName() {
+        return name;
+    }
+
+    /**
+     * @param name the name to set
+     */
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    /**
+     * @return the teacher
+     */
+    public String getTeacher() {
+        return teacher;
+    }
+
+    /**
+     * @param teacher the teacher to set
+     */
+    public void setTeacher(String teacher) {
+        this.teacher = teacher;
+    }
+
+    /**
+     * @return the study_year
+     */
+    public int getStudy_year() {
+        return study_year;
+    }
+
+    /**
+     * @param study_year the study_year to set
+     */
+    public void setStudy_year(int study_year) {
+        this.study_year = study_year;
+    }
+
+
+}

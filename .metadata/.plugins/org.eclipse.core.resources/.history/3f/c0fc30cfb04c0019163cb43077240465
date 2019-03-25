@@ -1,0 +1,25 @@
+package mysql.mysql_connector_java;
+
+import java.sql.SQLException;
+
+/**
+ * Hello world!
+ *
+ */
+public class AppSql
+{
+    public static void main(String[] args )
+    {
+        Student stud = new Student(2, "Ion Pop", "13/02/1994", "Pravaliei");
+        Courses course = new Courses(1, "Software Programming", "Popescu Ion", 2014);
+
+        DBConnection conexiune = DBConnection.getConnection();
+
+        try{
+            StudentOperations.printStudents(conexiune.connection);
+            StudentOperations.insert(conexiune.connection, stud);
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+    }
+}

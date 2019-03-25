@@ -1,0 +1,5 @@
+package mysql.mysql_connector_java;
+
+public class CourseOperations {
+
+}

@@ -1,0 +1,141 @@
+2019-03-21 16:42:57,637 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-21 16:43:50,922 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-21 16:46:44,161 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/Users/Sebastian/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2019-03-21 16:46:44,182 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/Users/Sebastian/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2019-03-21 16:46:44,255 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Learning\Java\SoftwareDesign\mysql_connector_java\pom.xml
+2019-03-21 16:46:45,685 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mysql:mysql_connector_java:0.0.1-SNAPSHOT @ C:\Learning\Java\SoftwareDesign\mysql_connector_java\pom.xml.
+2019-03-21 16:46:46,141 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mysql_connector_java/src/main/java
+2019-03-21 16:46:46,148 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mysql_connector_java/src/test/java
+2019-03-21 16:46:46,964 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-03-21 16:46:47,616 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:46:47,616 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-21 16:46:47,618 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:46:47,619 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-21 16:46:53,996 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:46:53,996 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-21 16:46:53,998 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:46:53,998 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-21 16:46:59,915 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:46:59,915 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-21 16:46:59,916 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:46:59,917 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-21 16:47:03,119 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:47:03,127 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-21 16:47:03,136 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:47:03,136 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-21 16:50:34,148 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mysql:mysql_connector_java:0.0.1-SNAPSHOT @ C:\Learning\Java\SoftwareDesign\mysql_connector_java\pom.xml.
+2019-03-21 16:50:34,427 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:50:34,427 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-21 16:50:34,429 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:50:34,436 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-21 16:50:35,767 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:50:35,782 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-21 16:50:35,798 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-21 16:50:35,833 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 10:06:08,509 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-22 16:02:17,337 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-22 16:03:26,417 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:03:26,417 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:03:26,420 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:03:26,421 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:09:37,633 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:09:37,633 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:09:37,634 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:09:37,635 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:10:39,328 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:10:39,329 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:10:39,330 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:10:39,331 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:11:12,866 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:11:12,867 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:11:12,868 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:11:12,869 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:11:24,411 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:11:24,411 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:11:24,412 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:11:24,413 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:14:08,763 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:14:08,764 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:14:08,775 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:14:08,779 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:16:49,929 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:16:49,929 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:16:49,930 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:16:49,934 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:17:04,122 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:17:04,122 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:17:04,133 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:17:04,142 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:17:42,734 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:17:42,734 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:17:42,734 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:17:42,734 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:17:51,173 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:17:51,178 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:17:51,184 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:17:51,186 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:18:20,250 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:18:20,250 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:18:20,252 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:18:20,255 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:29:39,008 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:29:39,008 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:29:39,020 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:29:39,021 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:31:10,569 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:31:10,569 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:31:10,571 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:31:10,573 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:32:34,628 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:32:34,628 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:32:34,652 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:32:34,652 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:32:46,652 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:32:46,652 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:32:46,653 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:32:46,653 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:34:05,937 [Worker-15: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:34:05,937 [Worker-15: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:34:05,952 [Worker-15: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:34:05,958 [Worker-15: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:38:51,150 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-22 16:41:05,320 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:41:05,321 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:41:05,323 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:41:05,323 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:42:53,902 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:42:53,902 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:42:53,903 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:42:53,903 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:43:08,748 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:43:08,749 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:43:08,751 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:43:08,752 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:43:55,824 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:43:55,824 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:43:55,826 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:43:55,832 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:44:09,790 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:44:09,790 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:44:09,792 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:44:09,798 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:45:08,227 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:45:08,233 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:45:08,239 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:45:08,244 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:47:00,986 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:47:00,987 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:47:00,988 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:47:00,993 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 16:53:37,455 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:53:37,460 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 16:53:37,468 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 16:53:37,474 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 17:06:19,067 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 17:06:19,067 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 17:06:19,069 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 17:06:19,075 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
+2019-03-22 17:09:05,281 [Worker-3: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 17:09:05,284 [Worker-3: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\main\resources
+2019-03-22 17:09:05,290 [Worker-3: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-22 17:09:05,293 [Worker-3: Launching AppSql] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\Java\SoftwareDesign\mysql_connector_java\src\test\resources
